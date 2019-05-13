@@ -9,7 +9,7 @@ DESC
 
 s.homepage         = 'https://github.com/sahandthegreat/FantasticView'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
-s.author           = { 'Sahand Edrisian' => 'sedrisian@gmail.com' }
+s.author           = { 'Abhishek Sharma' => 'abhishek.sharma@cardinaltsinc.net' }
 s.source           = { :git => 'https://github.com/abhisheksharmacardinal/FantasticView.git', :tag => s.version.to_s }
 
 s.ios.deployment_target = '10.0'
